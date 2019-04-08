@@ -1,0 +1,33 @@
+<style type="text/css">
+	body {
+		blackground-color: #1C82DC;
+	     }
+	h1 {
+  		color: purple;
+		text-shadow: 2px 2px 5px black;
+  		text-align: center;
+  		font-size: 60px;
+		font-family: "Arial Black", Gadget, sans-serif
+	   }
+
+	h2 {
+                color: green;
+		text-shadow: 2px 2px 5px black;
+  		text-align: center;
+  		font-size: 50px;
+		font-family: "Arial Black", Gadget, sans-serif
+	   }
+        
+        h3 {
+  		margin-left: 20px;
+  		font-family: "Arial Black", Gadget, sans-serif
+	   }
+
+	p {
+		color: black;
+ 		font-family: verdana;
+ 		font-size: 15px;
+		margin-right: 50px;
+  		margin-left: 80px;
+	  }
+</style> 
